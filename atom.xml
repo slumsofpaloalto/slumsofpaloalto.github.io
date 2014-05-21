@@ -4,7 +4,7 @@
   <title><![CDATA[The slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2014-05-21T15:13:01-07:00</updated>
+  <updated>2014-05-21T15:21:04-07:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,5 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Site Launch!]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/site-launch/"/>
+    <updated>2014-05-21T15:17:00-07:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/site-launch</id>
+    <content type="html"><![CDATA[<p>Earlier today I decided that I should have a site for the book.  After doing so many startups, and with some great services out there,
+launching the IT (or Infrastructure) of a new company is incredibly easy.  A web site is among the easiest of the infrastructure to
+set up.  I purchased the domain name, pointed it at github.io, cloned and customized Octopress, and after a few &lsquo;rake generate; rake deploy&rsquo;
+edit cycles, the book proposal and this blog posting were up and alive.</p>
+]]></content>
+  </entry>
   
 </feed>
