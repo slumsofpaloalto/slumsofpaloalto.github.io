@@ -4,7 +4,7 @@
   <title><![CDATA[The Slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2014-05-23T15:06:15-07:00</updated>
+  <updated>2014-05-24T11:10:21-07:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[More Samples]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/more-samples/"/>
+    <updated>2014-05-24T11:06:00-07:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/more-samples</id>
+    <content type="html"><![CDATA[<p>I added a significantly larger set of samples into the &lsquo;more&rsquo; section.  I did not want to change the samples section itself because
+that is meant to be concise.  I may be missing one or two that should be in there (maybe &lsquo;Dissent&rsquo;) to have more diversity, but
+it shouldn&rsquo;t just grow as more chapters seem to be &lsquo;possibly interesting&rsquo;.  The &lsquo;more&rsquo; section may grow over time as basically a
+sampling of the entire book.  Enjoy!  And thanks for all the encouragement.  Even some of my agent rejections seemed really encouraging.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Site Launch!]]></title>
