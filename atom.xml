@@ -4,7 +4,7 @@
   <title><![CDATA[The Slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2014-05-24T11:10:21-07:00</updated>
+  <updated>2014-05-30T07:54:30-07:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -14,11 +14,24 @@
 
   
   <entry>
+    <title type="html"><![CDATA[More2]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/more2/"/>
+    <updated>2014-05-30T07:36:00-07:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/more2</id>
+    <content type="html"><![CDATA[<p>The raw content of the book surpassed 25,000 words in the last day.  So I added a second &lsquo;<a href="http://slumsofpaloalto.github.io/more2">More 2</a>&rsquo; section to keep
+things in manageable size.  A pass at organizing the content has been done as well, so whether the book ends at 50,000 or more
+words, it basically has a first full pass at structure and flow.</p>
+
+<p>No agents yet.  I investigated self publishing during the last week, and it certainly seems manageable.  I just rather have someone skilled do what they are skilled at :&ndash;)</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[More Samples]]></title>
     <link href="http://slumsofpaloalto.github.io/blog/more-samples/"/>
     <updated>2014-05-24T11:06:00-07:00</updated>
     <id>http://slumsofpaloalto.github.io/blog/more-samples</id>
-    <content type="html"><![CDATA[<p>I added a significantly larger set of samples into the &lsquo;more&rsquo; section.  I did not want to change the samples section itself because
+    <content type="html"><![CDATA[<p>I added a significantly larger set of samples into the &lsquo;<a href="http://slumsofpaloalto.github.io/more">More</a>&rsquo; section.  I did not want to change the samples section itself because
 that is meant to be concise.  I may be missing one or two that should be in there (maybe &lsquo;Dissent&rsquo;) to have more diversity, but
 it shouldn&rsquo;t just grow as more chapters seem to be &lsquo;possibly interesting&rsquo;.  The &lsquo;more&rsquo; section may grow over time as basically a
 sampling of the entire book.  Enjoy!  And thanks for all the encouragement.  Even some of my agent rejections seemed really encouraging.</p>
