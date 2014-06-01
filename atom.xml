@@ -4,7 +4,7 @@
   <title><![CDATA[The Slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2014-06-01T16:40:23-07:00</updated>
+  <updated>2014-06-01T16:47:53-07:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[More 3]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/more3/"/>
+    <updated>2014-06-01T16:42:00-07:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/more3</id>
+    <content type="html"><![CDATA[<p>With a new month, now we start filling in the software-techy aspects of the book.  This isn&rsquo;t meant to be a major thread since I think other threads are more valuable
+to more people, but if you are interested in the software / programming parts, these will be woven in as well.</p>
+
+<p>Passed 30K words.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More 2]]></title>
