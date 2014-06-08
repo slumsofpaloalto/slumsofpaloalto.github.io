@@ -4,7 +4,7 @@
   <title><![CDATA[The Slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2014-06-08T07:32:42-07:00</updated>
+  <updated>2014-06-08T07:41:09-07:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -14,11 +14,26 @@
 
   
   <entry>
+    <title type="html"><![CDATA[More 4]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/more4/"/>
+    <updated>2014-06-08T07:36:00-07:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/more4</id>
+    <content type="html"><![CDATA[<p>Can&rsquo;t go serving this morning, so instead I wrote a bit more of the book: <a href="http://slumsofpaloalto.github.io/more4">More 4</a>.  This may be one of the last extract sets since I think extracting the
+core of the startup stories may be hard to read out of context.  Actually, everything may be hard to read out of the surrounding context, but I am hoping
+it is at least amusing.</p>
+
+<p>Almost at 40K words.</p>
+
+<p>Also started a tennis blog at <a href="http://supersonicfox.com/">Supersonic Fox</a> which will have more Tennis-oriented content.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[More 3]]></title>
     <link href="http://slumsofpaloalto.github.io/blog/more3/"/>
     <updated>2014-06-01T16:42:00-07:00</updated>
     <id>http://slumsofpaloalto.github.io/blog/more3</id>
-    <content type="html"><![CDATA[<p>With a new month, now we start filling in the software-techy aspects of the book.  This isn&rsquo;t meant to be a major thread since I think other threads are more valuable
+    <content type="html"><![CDATA[<p>With a new month, now we start filling in the software-techy aspects of the book: <a href="http://slumsofpaloalto.github.io/more3">More 3</a>.  This isn&rsquo;t meant to be a major thread since I think other threads are more valuable
 to more people, but if you are interested in the software / programming parts, these will be woven in as well.</p>
 
 <p>Passed 30K words.</p>
