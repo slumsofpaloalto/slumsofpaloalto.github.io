@@ -4,7 +4,7 @@
   <title><![CDATA[The Slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2014-06-26T05:49:38-07:00</updated>
+  <updated>2014-06-27T05:27:28-07:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Minimal Viable Book (MVB)]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/mvb1/"/>
+    <updated>2014-06-12T09:00:00-07:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/mvb1</id>
+    <content type="html"><![CDATA[<p>Today all my work (and my life) gave birth to a Minimal Viable Book (MVB).  This is a book
+that isn&rsquo;t ready for true publication, but has enough content and structure that you can
+tell where it is going.  My MVB1 (there will be at least two more&hellip; I am writing this update 15 days late)
+has nice white paper, about 160 5.25x8 pages, and no ending.  The ending chapter is there, but there
+is no end in the ending chapter.  But I can print this MVB in booklet form and give it out to various
+other people.  I have a book&hellip; a minimal viable book&hellip; but that is still a book!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More 4]]></title>
