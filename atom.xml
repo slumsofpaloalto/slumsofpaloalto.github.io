@@ -4,7 +4,7 @@
   <title><![CDATA[The Slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2014-08-13T05:45:43-07:00</updated>
+  <updated>2014-08-14T00:30:38-07:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[August Updates]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/august-updates/"/>
+    <updated>2014-08-14T09:00:00-07:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/august-updates</id>
+    <content type="html"><![CDATA[<p>It might look like things are very quiet for the book for more than a month, but that is because all the updates shifted to being
+on the Kickstarter: <a href="http://goo.gl/F4tvuF">http://goo.gl/F4tvuF</a></p>
+
+<p>Since the Kickstarter sends notifications out to everyone who registered, it seemed more logical
+to put updates there than here.  Plus the &lsquo;registered&rsquo; people actually committed money to the book,
+so like it or not, they are my &ldquo;More Valued Customers&rdquo;.</p>
+
+<p>But I will update this blog periodically too.  At this point though, I recommend you read through the updates on the kickstarter: <a href="https://www.kickstarter.com/projects/761729676/the-slums-of-palo-alto-how-to-after-ten-failed-sta/posts">https://www.kickstarter.com/projects/761729676/the-slums-of-palo-alto-how-to-after-ten-failed-sta/posts</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Private Beta Book Kickstarter]]></title>
