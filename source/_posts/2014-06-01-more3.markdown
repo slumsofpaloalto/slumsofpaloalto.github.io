@@ -1,0 +1,11 @@
+---
+layout: post
+title: "More 3"
+date: 2014-06-01 16:42
+comments: true
+---
+
+With a new month, now we start filling in the software-techy aspects of the book: [More 3](/more3).  This isn't meant to be a major thread since I think other threads are more valuable
+to more people, but if you are interested in the software / programming parts, these will be woven in as well.
+
+Passed 30K words.

@@ -6,13 +6,12 @@
   <div id="main">
     <div id="content">
       <div>
-        <img src="/images/logo.jpg" />
+        <img src="/images/SlumsHeadline_v2.jpg" />
         <article role="article">
           {{ content | expand_urls: root_url }}
         </article>
       </div>
     </div>
-    {% include ctas.html %}
     <aside class="sidebar">
       {% if site.page_asides.size %}
         {% include_array frontpage_asides %}
