@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://slumsofpaloalto.github.io/sitemap.xml 
