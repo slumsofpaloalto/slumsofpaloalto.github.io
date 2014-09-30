@@ -5,6 +5,12 @@ sidebar: collapse
 
 ##The Slums of Palo Alto
 
+### Now Buyable on Amazon!
+
+   * <a href="http://www.amazon.com/Slums-Palo-Alto-Preview-ecstatically/dp/0692233199/">English, Black & White</a>
+   * English, Full Color!
+
+
 <img src="http://slumsofpaloalto.com/images/SOPA_Zodiac_w1053h850.png"/>
 
 The putting green on the balcony overlooked Santa Monica pier.  We were in the suite previously owned by Lawrence Welk, and could watch the taping of Bay Watch every Monday.  During the day it was incredibly beautiful… it was the first of a series of too beautiful to believe buildings that would affect my life.  At night it was a bit scary.  We were building a news palace for a Saudi Prince.  Saudi Princes have a lot of enemies, and when working at night in our beautiful offices it felt like all the enemies of our Prince were figuring out ways to get to me.  Rappel down from the balcony above?  Sneak past the security cameras protecting the elevator?  Apparently the prince was convinced by the Iraq war that CNN was a more reliable way to know what was going on around his country than other means, and he needed a palace of news to make sure he wasn’t about to be overthrown or worse.  I never saw the elevator pitch, but it could have been “Keep your neck with a palace of news”.

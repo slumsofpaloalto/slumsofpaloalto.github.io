@@ -5,7 +5,6 @@ sidebar: collapse
 
 ## Contact
 
-The easiest way to reach me is via email: mark at slumsofpaloalto dot com.  I am not yet looking for detailed editorial feedback,
-but I very much want to hear whether you think the book
-seems interesting, accessible, entertaining, informative, or any of the more negative adjectives.
+The easiest way to reach me is via email: <a href="mark@SlumsOfPaloAlto.com">mark at SlumsOfPaloAlto dot com</a>.  You
+can also write to me at "Slums of Palo Alto, 531 Lasuen Mall, #20516, Stanford, CA 94309".
 
