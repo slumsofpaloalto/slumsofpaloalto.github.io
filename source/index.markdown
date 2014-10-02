@@ -8,8 +8,12 @@ sidebar: collapse
 ### Now Buyable on Amazon!
 
    * <a href="http://www.amazon.com/Slums-Palo-Alto-Preview-ecstatically/dp/0692233199/">English, Black & White</a>
-   * English, Full Color!
+   * English, Full Color!  Expected any day now (final color illustrations are being worked on).
+   * Chinese, Black & White.  Expected by January
+   * Chinese, Full Color!
+   * Spanish, Black & White.  Looking for a Spanish translator.  Please <a href="/contact">Contact Me!</a> if you know of any one.
 
+At least half the profits for all the books go to educational programs.  See <a href="http://minimalBuyableBook.com/">http://minimalBuyableBook</a>
 
 <img src="http://slumsofpaloalto.com/images/SOPA_Zodiac_w1053h850.png"/>
 
