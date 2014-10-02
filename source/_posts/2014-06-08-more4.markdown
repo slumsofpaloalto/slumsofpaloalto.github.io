@@ -1,0 +1,14 @@
+---
+layout: post
+title: "More 4"
+date: 2014-06-08 7:36
+comments: true
+---
+
+Can't go serving this morning, so instead I wrote a bit more of the book: [More 4](/more4).  This may be one of the last extract sets since I think extracting the
+core of the startup stories may be hard to read out of context.  Actually, everything may be hard to read out of the surrounding context, but I am hoping
+it is at least amusing.
+
+Almost at 40K words.
+
+Also started a tennis blog at [Supersonic Fox](http://supersonicfox.com/) which will have more Tennis-oriented content.

@@ -3,29 +3,25 @@
     <li><a href="{{ root_url }}/synopsis">Synopsis</a></li>
     <li><a href="{{ root_url }}/bio">Bio</a></li>
   <li><a href="{{ root_url }}/sample">Sample</a></li>
-    <li><a href="{{ root_url }}/more">More</a></li>
-    <li><a href="{{ root_url }}/more2">2</a></li>
-    <li><a href="{{ root_url }}/more3">3</a></li>
-    <li><a href="{{ root_url }}/more4">4</a></li>
     <li><a href="{{ root_url }}/blog">News</a></li>
   <li><a href="{{ root_url }}/contact">Contact</a></li>
   <li><a href="{{ root_url }}/atom.xml"><img src='/images/rss.png' /> RSS</a></li>
     <li>
     {% if site.lang == "en" %}
         {% capture link1 %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
-        <a href="{{ link1 }}" ><img alt="es" src='/images/mexican_flag_mlf1a1_w150.jpeg'/>es</a>
+        <a href="{{ link1 }}" ><img alt="es" src='/images/mexican_flag_mlf1a1_h22.jpg'/>es</a>
         {% capture link2 %}{{ site.baseurl_root }}/zh{{ page.url}}{% endcapture %}
-        <a href="{{ link2 }}" ><img alt="zh" src='/images/taiwan_flag_mlf1a1_w150.jpeg'/>zh</a>
+        <a href="{{ link2 }}" ><img alt="zh" src='/images/taiwan_flag_mlf1a1_h22.jpg'/>zh</a>
       {% else if site.lang == "es" %}
         {% capture link2 %}{{ site.baseurl_root }}/zh{{ page.url}}{% endcapture %}
-        <a href="{{ link2 }}" ><img src='/images/taiwan_flag_mlf1a1_w150.jpeg'/>zh</a>
+        <a href="{{ link2 }}" ><img src='/images/taiwan_flag_mlf1a1_h22.jpg'/>zh</a>
         {% capture link3 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-        <a href="{{ link3 }}" ><img alt="en" src='/images/us_flag_mlf1a1_w300.png'/>en1</a>
+        <a href="{{ link3 }}" ><img alt="en" src='/images/us_flag_mlf1a1_h22.png'/>en1</a>
     {% else if site.lang == "zh" %}
         {% capture link1 %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
-        <a href="{{ link1 }}" ><img src='/images/mexican_flag_mlf1a1_w150.jpeg'/>es</a>
+        <a href="{{ link1 }}" ><img src='/images/mexican_flag_mlf1a1_h22.jpg'/>es</a>
           {% capture link3 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-          <a href="{{ link3 }}" ><img alt="en" src='/images/us_flag_mlf1a1_w300.png'/>en2</a>
+          <a href="{{ link3 }}" ><img alt="en" src='/images/us_flag_mlf1a1_h22.png'/>en2</a>
       {% endif %}
     </li>
 

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "More 2"
+date: 2014-05-30 07:36
+comments: true
+---
+
+The raw content of the book surpassed 25,000 words in the last day.  So I added a second '[More 2](/more2)' section to keep
+things in manageable size.  A pass at organizing the content has been done as well, so whether the book ends at 50,000 or more
+words, it basically has a first full pass at structure and flow.
+
+No agents yet.  I investigated self publishing during the last week, and it certainly seems manageable.  I just rather have someone skilled do what they are skilled at :-)
+
+
+
+
+
+
+
+
