@@ -9,11 +9,11 @@
         <li><a href="{{ site.baseurl_root }}/zh/atom.xml"><img src='/images/rss.png' /> RSS</a></li>
         <li>
             {% capture link1 %}{{ site.baseurl_root }}/es{{ page.url}}{% endcapture %}
-            <a href="{{ link1 }}" ><img src='/images/mexican_flag_mlf1a1_h22.jpg'/></a>
+            <a href="{{ link1 }}" ><img src='/images/mexican_flag_mlf1a1_h22.jpg'/><span  style="font-size: 1px">es</span></a>
         </li>
         <li>
             {% capture link3 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-            <a href="{{ link3 }}" ><img alt="en" src='/images/us_flag_mlf1a1_h22.png'/></a>
+            <a href="{{ link3 }}" ><img alt="en" src='/images/us_flag_mlf1a1_h22.png'/><span  style="font-size: 1px">en</span></a>
         </li>
     {% else %}
         <li><a href="{{ root_url }}/">Home</a></li>
@@ -25,11 +25,11 @@
         <li><a href="{{ root_url }}/atom.xml"><img src='/images/rss.png' /> RSS</a></li>
         <li>
             {% capture link1 %}{{ site.baseurl_root }}/es{{page.url}}{% endcapture %}
-            <a href="{{ link1 }}" ><img alt="es" src='/images/mexican_flag_mlf1a1_h22.jpg'/></a>
+            <a href="{{ link1 }}"><img alt="es" src='/images/mexican_flag_mlf1a1_h22.jpg'/><span  style="font-size: 1px">es</span></a>
         </li>
         <li>
             {% capture link2 %}{{ site.baseurl_root }}/zh{{ page.url}}{% endcapture %}
-            <a href="{{ link2 }}" ><img alt="zh" src='/images/taiwan_flag_mlf1a1_h22.jpg'/></a>
+            <a href="{{ link2 }}"><img alt="zh" src='/images/taiwan_flag_mlf1a1_h22.jpg'/><span  style="font-size: 1px">zh</span></a>
         </li>
     {% endif %}
 </ul>
