@@ -4,7 +4,7 @@
   <title><![CDATA[The Slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2015-01-28T10:30:34-08:00</updated>
+  <updated>2015-11-07T12:47:34-08:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kindle Live!]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/kindle-live/"/>
+    <updated>2015-11-07T09:00:00-08:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/kindle-live</id>
+    <content type="html"><![CDATA[<p>Well, it has been an extra year in the making, but the final version of &ldquo;The Slums of Palo Alto&rdquo; is now going live on
+Amazon in Kindle, B&amp;W, and Color formats.  Thanks to everyone who has helped along the way, and please
+<a href="http://slumsofpaloalto.github.io/contact">Let Me Know</a> what you think of the new version.  It has been highly edited: things that were
+ off the core topics of the book are now gone, the rest is now fleshed out, and I believe the end is <em>much</em> better.</p>
+
+<ul>
+<li> Author Page: <a href="http://www.amazon.com/author/markfussell/">http://www.amazon.com/author/markfussell/</a></li>
+<li> The Slums of Palo Alto: How to success through relentless failure
+
+<ul>
+<li><a href="http://www.amazon.com/gp/product/0692233199/">Kindle, English, Full Color</a></li>
+<li><a href="http://www.amazon.com/The-Slums-Palo-Alto-Preview/dp/1500328510/">Book, English, Full Color</a></li>
+<li><a href="http://www.amazon.com/gp/product/0692233199/">Book, English, B&amp;W</a></li>
+</ul>
+</li>
+</ul>
+
+
+<p>At least half the profits for all the books go to educational programs.  See <a href="http://MinimalBuyableBook.com/">MinimalBuyableBook.com</a> for
+more information</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Color Live!]]></title>
