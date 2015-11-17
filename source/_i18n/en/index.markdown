@@ -1,82 +1,44 @@
-##The Slums of Palo Alto
+## How to succeed<br/><span class="cFailure">through relentless failure</span>  
+### Silicon Valley, the real story
 
-### Now Buyable on Amazon!
+The story of a family that has weathered a series of ten startups and the environment
+that is the real "Shark Tank": Silicon Valley. 
+                                               
+  * [Read the Kindle Version](/slopa_kindle)
+  
+A place where some people are very badly off, others struggle
+to keep afloat, but the news continuously reports on the minority of winners, even glossing over
+these winners' dark sides and failures.
 
-   * <a href="http://www.amazon.com/Slums-Palo-Alto-Preview-ecstatically/dp/0692233199/">English, Black & White</a>
-   * English, Full Color!  Expected any day now (final color illustrations are being worked on).
-   * Chinese, B&amp;W and Color!  Expected by January
-   * Spanish, B&amp;W and Color!  Looking for a Spanish translator.  Please <a href="/contact">Contact Me!</a> if you know of any one.
+  * [Read the B&amp;W Print Version](/slopa_printbw)
 
-At least half the profits for all the books go to educational programs.  See <a href="http://MinimalBuyableBook.com/">MinimalBuyableBook.com</a> for
-more information
+An insider view on a series of ten startups, with no unicorns, and the lessons learned from 
+their similarities and differences.  Two daughters raised and educated within the tank by leveraging communities 
+within Palo Alto that most people have never heard of.  
 
-<img src="http://slumsofpaloalto.com/images/SOPA_Zodiac_w1053h850.png"/>
+  * [Read the Full Color Print Version](/slopa_printfc)
 
-The putting green on the balcony overlooked the Santa Monica pier.
-We were in the suite previously owned by Lawrence Welk, and could watch the taping of Baywatch every Monday.
-During the day it was incredibly beautiful… it was the first of a series of too-beautiful-to-believe buildings that would affect my life.
-At night it was a bit scary.  We were building a command center for a Saudi Arabian prince.
-Saudi princes have a lot of enemies, and when working late at night in our beautiful office it felt like all the enemies of our prince
-were figuring out ways to get to me.  Rappel down from the balcony above?  Sneak past the security cameras protecting the elevator?
-Apparently the prince was convinced by the Iraq war that CNN was a more reliable way to know what was going on around his country
-than other means, and he needed a command center that processed all this news to make sure he wasn’t about to be overthrown or worse.
-I never heard the elevator pitch , but it could have been “Keep your neck with a palace of news”.
-
-This was the first of many startups that I was to be a part of.  A total of ten startups.  To quickly get rid of any chance of romance… all of them failed.
-[Continue Reading](/sample)
-
-## Why
-
-This site was created to support the upcoming book "The Slums of Palo Alto: How to be ecstatically happy after ten failed startups" written by [Mark Fussell](/bio)
-and experienced by him and his whole family: Rebecca, Maya, and Katrina.  Maya and Katrina came into Rebecca and my journey long after it started, but Maya joined us
-before Startup #3 and Katrina joined us during Startup #4.
-
-The book is meant to be interesting and informative.  Surviving ten startups, with all the demands and differences they contained, gives an interesting perspective and understanding.
-Surviving the _slums_ of Palo Alto also gives some insights into the world.  And finally, taking a 30+ year journey with a single partner
-may provide clues to life that others find interesting.  But besides these glimpses into my journey, this book is about the reality of failure, how to learn from it,
-and how to relentlessly try to succeed again.  Over and over and over...
-
-And as for the ultimate 'Why?'.  Because I couldn't not write the book.  I was writing it in my head every week.  I was reading it every week.
-One Monday not long ago, I just started typing.  And I hoped by getting it on paper
-it would inform and entertain at least one other person.  My daughter Katrina is very entertained, so I am very happy :-)
-
-## What
-
-The site is structured primarily around the standard Query Proposal in the non-fiction book industry.
-I think most readers should first read the [sample](/sample), then maybe my [bio](/bio), and finally the [synopsis](/synopsis) if you are interested.
-If you are an agent, I expect you will reverse that order :-)
-
-There is also a continuation of samples in [more](/more).  I will add to that periodically.
-
-If you know an agent that might be interested, please send this site information to them, or let me know
-and I will send them (or even better help you send them :-) the standard email format of a Query.
-
-## When
-
-I expect to be finished with a first pass of content by the end of Summer 2014.  After that, I will work on a first full structure of the book.  At that point
-any and all editorial help will be greatly appreciated.
-
-## Who
-
-My [Bio](/bio) and [LinkedIn](http://linkedin.com/in/markfussell) profile.
-
-## Where
-
-I think that is easy to deduce :-) My family and I live near Mitchell Park in Palo Alto, California.
-
-## What Else
-
-There are several companion sites to the book.  They contain more details on specific topics.  So far, there are _seven_ of them:
-
-   * http://SupersonicFox.com/ -- About becoming really good at tennis, even after a thirty year hiatus
-   * http://TennisPaloAlto.com/ -- Enabling more people to play more tennis
-   * http://FaceLick.com/ -- FaceLick dot com: it is like Facebook, but for pets!  All profits go to the SPCA (rotating between the different agencies around the country: http://sfspca.org/)
-   * http://velidom.org/ -- About becoming an exceptional programmer through years of hard (and smart) work
-   * http://FullOfLifeFood.com/ -- Enabling people to buy more-directly from the farmer, and the farmer to do less work selling to you
-   * http://MinimalViableBook.com/ -- Enabling potential authors to insanely create awesome books
-   * http://ButterflyBus.org/ -- More details on Motor Homes
+Relentless failing at work and in life, relentless financial struggle, and how to progress through it all... because 
+there is no other choice.  Family, community, and commitment come first: they must succeed
 
 
+### Kirkus Review!
 
+  * "A pleasure from start to finish &hellip;"
+  * "Fussell brims with intelligence and has a wholly realistic, hard-knocks sense of how business and stock options work in California’s tech epicenter, where startups bloom and often quickly fade away."
+    * "His experiences with a string of ten such companies will be of interest to others entering or already in this arena. "
+  * "But those throughlines are only part of this wide-ranging expedition into personal philosophy, social responsibility and family values. "
+  * <a href="http://www.kirkusreviews.com/book-reviews/mark-l-fussell/slums-palo-alto/" target="_blank">Full Review</a>
 
+### Fuller summary
 
+Approximately two hundred pages with two dozen illustrations and photographs.  
+
+The main throughline is about startups, what they do right and wrong, and how to make them work.  Other throughlines
+are how to progress through failure (potentially relentless failure) to achieve incremental and ultimate success, the tradeoffs of 
+living in Silicon Valley, and how to have integrity and purpose living and working in the Shark Tank.  Additional topics include family, community, gender bigotry, programming, social responsibility, and education.
+
+### Want more information?
+
+Please [contact Mark](mailto:mark@SlumsOfPaloAlto.com) with any questions, or see the [Amazon author page](http://www.amazon.com/author/markfussell/), [a sample](/sample), 
+[the synopsis](/synopsis), [more background](/more), or the [author bio](/bio)

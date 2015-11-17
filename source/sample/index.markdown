@@ -29,14 +29,3 @@ Turns out, you can do that.  You simply multi-task at some proper unit of granul
 There was a Starbucks on the ground floor of the Evant building.
 
 I am no longer a lightweight.
-
-### Slums
-
-To be clear, I am not claiming that Palo Alto has parts that are like the slums of Rio De Janeiro or Kolkata.  At worse, we have (or had) a trailer park, which was probably much safer and cleaner than most of the next town over.  And we have a strange part of Palo Alto that does not go to the Palo Alto school district.  But Mountain View is a perfectly good school district, and people like Salman Khan and the Crittenden principle are making it better by the day.
-
-By slums I mean a place where (a) people are living an appreciably worse standard of living then those around them, (b) those people have no economic power to make their life significantly better without “emigrating”, (c) people’s health and happiness are meaningfully impacted, and (d) there is imminent threat of things getting much worse.
-
-If my definition is so irreconcilable with yours that you must stop reading, I understand.  If you have not bought the book yet, please put it back on the shelf.  If you did, it may be a good white elephant gift.
-
-If you are still here: Rebecca and I did not actually move into the slums.  They came to us…    [More](/more)
-
