@@ -4,7 +4,7 @@
   <title><![CDATA[The Slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2015-11-17T10:14:21-08:00</updated>
+  <updated>2015-11-19T09:35:52-08:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[All Live!  B&amp;W Bug!]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/all-live/"/>
+    <updated>2015-11-19T09:00:00-08:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/all-live</id>
+    <content type="html"><![CDATA[<p>It seems I failed again!  The B&amp;W version was a couple versions old (a nearly final test run) and still had
+&ldquo;Not yet finished&rdquo;  sections within it.  If you bought one of these, please  <a href="http://slumsofpaloalto.github.io/contact">Contact Me</a> and I will
+send you a replacement.  The Color and Kindle versions were fine, but because it takes the book offline, I
+didn&rsquo;t want the B&amp;W version to disappear.  I accidentally held off too long and
+forgot the B&amp;W needed updating.</p>
+
+<p>Thanks to Jack for letting me know the mistake.  It was fixed today.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kindle Live!]]></title>
