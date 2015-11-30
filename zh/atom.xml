@@ -4,7 +4,7 @@
   <title><![CDATA[The Slums of Palo Alto]]></title>
   <link href="http://slumsofpaloalto.github.io/atom.xml" rel="self"/>
   <link href="http://slumsofpaloalto.github.io/"/>
-  <updated>2015-11-24T08:39:19-08:00</updated>
+  <updated>2015-11-30T09:30:51-08:00</updated>
   <id>http://slumsofpaloalto.github.io/</id>
   <author>
     <name><![CDATA[Mark Fussell]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Love: Programming]]></title>
+    <link href="http://slumsofpaloalto.github.io/blog/love-programming/"/>
+    <updated>2015-11-30T09:00:00-08:00</updated>
+    <id>http://slumsofpaloalto.github.io/blog/love-programming</id>
+    <content type="html"><![CDATA[<div style="float:right">
+<img src="http://slumsofpaloalto.github.io/images/Sopa_05_Pasadena_12per.png"  alt="Nature">
+</div>
+
+
+<p>I am a professional programmer, which means I get paid to read and write software.  Fortunately, I love to read and write software, so I am in the right business.  Programming
+is amazingly powerful now that robots, the Internet, and almost everything has some kind of program inside it.  I started programming when programming was simpler, which made it easier for me to learn.  And I
+am going to teach you how to program by going back to something similarly simple and even tangible.</p>
+
+<!--more-->
+
+
+<p>For those who think they should scurry to the next chapter out of fear, please fear not.  At worse I will fail.  I am pretty good at that, but sometimes I don’t.  And for those who think they know the art of programming too well to stay, please don’t scurry away, quite yet, either.  For I am not going to just teach you how to program, I am going to teach you how to program in the only true programming language.  This is not just a great programming language; it is truly what “The Matrix”  is made of.  It is the language of the machines and the only true programming language to those machines.  It is named “Machine Language”.  Sadly, computer people are commonly very rigorous and not very creative about how they name things.</p>
+
+<p>To learn the one true language, you will need some playing cards and a desk or relatively empty space in which to work.</p>
+
+<ul>
+<li><a href="http://slumsofpaloalto.github.io/slopa_kindle">Read the Kindle</a>, <a href="http://slumsofpaloalto.github.io/slopa_printbw">B&amp;W Print</a>, or <a href="http://slumsofpaloalto.github.io/slopa_printfc">Full Color Print Version</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[All Live!  B&amp;W Bug!]]></title>
